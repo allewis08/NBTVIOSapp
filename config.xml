@@ -30,7 +30,7 @@
     <icon src="res/icons/ios/Icon@2x.png" gap:platform="ios" width="114" height="114" />    
     <icon src="res/icons/ios/Icon-72.png" gap:platform="ios" width="72" height="72" />
     <icon src="res/icons/ios/Icon-72@2x.png" gap:platform="ios" width="144" height="144" />
-    <icon src="res/icons/ios/Default-568h@2x.png" gap:platform="ios" width="1024" height="1024" />
+    <icon src="res/icons/ios/Icon-1024@2x.png" gap:platform="ios" width="1024" height="1024" />
 
     <icon src="res/icons/android/drawable-ldpi/Icon.png" gap:platform="android" gap:density="ldpi" />
     <icon src="res/icons/android/drawable-mdpi/Icon.png" gap:platform="android" gap:density="mdpi" />
